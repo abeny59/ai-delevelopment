@@ -13,5 +13,11 @@ It includes data preprocessing, model training, evaluation, and a REST API built
 
 ---
 
-## 🧠 Project Structure
+## ⚙️ Installation
 
+1. Create a new folder (e.g., `hospital-readmission-ai`)
+2. Inside it, create a file named `index.py` and paste the Python code below.
+3. Create another file named `requirements.txt` and copy the dependencies listed at the end of this document.
+4. In the terminal, install dependencies:
+   ```bash
+   pip install -r requirements.txt
